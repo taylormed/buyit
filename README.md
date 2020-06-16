@@ -1,2 +1,6 @@
 # buyit
-Small project - Using react and python for web development.
+
+
+A remake of the master repo using svelte
+
+Small project - Using svelte and python for web development.
